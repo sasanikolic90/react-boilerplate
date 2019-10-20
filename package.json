@@ -1,0 +1,12 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "Minimalistic React Boilerplate\"",
+  "main": "index.js",
+  "author": "Sasa Nikolic",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
