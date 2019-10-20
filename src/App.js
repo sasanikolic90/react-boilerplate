@@ -1,7 +1,7 @@
 import React from 'react';
 
 const App = () => (
-    <H1>Minimalistic React Boilerplate</H1>
+    <h1>Minimalistic React Boilerplate</h1>
 )
 
 export default App
