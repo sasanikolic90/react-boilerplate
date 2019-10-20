@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "Minimalistic React Boilerplate\"",
+  "description": "Minimalistic React Boilerplate",
   "main": "index.js",
   "author": "Sasa Nikolic",
   "license": "MIT",
