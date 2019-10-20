@@ -1,2 +1,2 @@
 # react-boilerplate
-Minimalistic React Boilerplate
+Minimalistic React Boilerplate with Babel and Webpack.
